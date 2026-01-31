@@ -68,7 +68,7 @@ python app.py
 ## 👥 Team
 
 This project was developed as part of Software Engineering coursework by:
-- [Richa Rameshkrishna](https://github.com/YOUR-USERNAME)
+- [Richa Rameshkrishna](https://github.com/richa-ramesh)
 - Pratheek Babu
 - Rachitha S
 - Apoorva Sarvade
